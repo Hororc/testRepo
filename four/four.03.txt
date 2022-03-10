@@ -1,1 +1,1 @@
-This is file three in folder 4 and is modified by Branko K
+This is file three in folder 4
